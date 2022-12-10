@@ -4,8 +4,11 @@
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hello everyone !
-  <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" width="60"/>
+<!--   <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" width="60"/>  -->
+  <img src="https://media.giphy.com/media/ZOdNr8uFlnUrypcq8z/giphy.gif" width="30"/> 
 </h1>
+
+
 
 ---
 
@@ -82,6 +85,9 @@ I am a Machine Learning Engineer from Poland. :robot:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-231&exclude_repo=FCC-Algorithmic-Trading,Deep-Learning-Convolutional-Neural-Networks,Big-data-hadoop-map-reduce,Machine-Learning,Deep-Learning,NG-CarApp&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<div align=center>
+    <img src="https://media.giphy.com/media/74OhY9HiyDddCvPtgf/giphy.gif" width="300"/>  
 </div>
 
 <!-- FCC-Algorithmic-Trading,ML-Ensemble-Learning, -->
