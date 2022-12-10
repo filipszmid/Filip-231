@@ -62,7 +62,7 @@ I am a Machine Learning Engineer from Poland. :robot:
 
 - :rocket: In my free time, I'm riding motocross and traveling around the world.
 
-- :mailbox: Open for job offers in building inovative products powered by Deep Learning:  
+- :mailbox: Open for job offers in building innovative products powered by Deep Learning:  
 <div id="stats" align="center">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-szmid-a1081519a/)
