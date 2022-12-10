@@ -9,7 +9,7 @@
 
 ---
 
-### :hammer_and_wrench: My favourites :
+### :hammer_and_wrench: My world :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
@@ -62,18 +62,27 @@ I am a Machine Learning Engineer from Poland. :robot:
 
 - :rocket: In my free time, I'm riding motocross and traveling around the world.
 
-- :mailbox: Open for job offers in building inovative products deep learning powered: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-szmid-a1081519a/)
+- :mailbox: Open for job offers in building inovative products powered by Deep Learning:  
+<div id="stats" align="center">
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-szmid-a1081519a/)
 
+</div>
 
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Filip-231&theme=github-dark-blue&border_radius=8.6&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<div id="stats" align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-231&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Filip-231&show_icons=true&count_private=true&theme=github-dark-blue&border_radius=8.6&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filip-231&count_private=true&show_icons=true&theme=tokyonight)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-231&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook&exclude_repo=video-server-payments)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>Video-Server-Payments,FCC-Webpack-DemoApp
 
 
 
