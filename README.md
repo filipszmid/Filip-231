@@ -80,13 +80,11 @@ I am a Machine Learning Engineer from Poland. :robot:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filip-231&count_private=true&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-231&exclude_repo=FCC-Algorithmic-Trading,Deep-Learning-Convolutional-Neural-Networks,Big-data-hadoop-map-reduce,Machine-Learning,Deep-Learning,NG-CarApp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-231&exclude_repo=FCC-Algorithmic-Trading,Deep-Learning-Convolutional-Neural-Networks,Big-data-hadoop-map-reduce,Machine-Learning,Deep-Learning,NG-CarApp&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-FCC-Algorithmic-Trading,ML-Ensemble-Learning,
 
-&hide=jupyter%20notebook
-
+<!-- FCC-Algorithmic-Trading,ML-Ensemble-Learning, -->
 <!-- <div id="header" align="left">
   <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/> -->
