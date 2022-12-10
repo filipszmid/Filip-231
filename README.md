@@ -80,9 +80,10 @@ I am a Machine Learning Engineer from Poland. :robot:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filip-231&count_private=true&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-231&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook&exclude_repo=video-server-payments)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-231&exclude_repo=machine-learning,deep-learning,video-server-payments,fcc-webpack-demoapp&hide=jupyter%20notebook&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>Video-Server-Payments,FCC-Webpack-DemoApp
+</div>
+
 
 
 
