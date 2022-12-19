@@ -61,13 +61,15 @@ I am a Machine Learning Engineer from Poland. :robot:
 
 - :medal_sports: I have strong background in Mathematics and practical experience in Web Development.
 
-- :x: I won't do frontend of your app even though I could do.
+<!-- - :x: I won't do frontend of your app even though I could do. -->
 
-- :rocket: In my free time, I'm riding motocross and traveling around the world.
+- :rocket: In my free time I train on the gym, travel the world and challenge myself, in winter I am snowboarding
 
-- :mailbox: Open for job offers in building innovative products powered by Deep Learning:  
+<!-- in building innovative products powered by Deep Learning:  -->
+
+- :mailbox: Open for job offers: 
 <div id="stats" align="center">
-
+  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filip-szmid-a1081519a/)
 
 </div>
