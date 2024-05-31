@@ -1,4 +1,4 @@
-# Filip-231 <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="20"/>
+# FilipSzmid <img src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" width="20"/>
 
 
 <h1>
