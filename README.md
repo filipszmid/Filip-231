@@ -80,12 +80,12 @@ I am a Machine Learning Engineer from Poland. :robot:
 
 <div id="stats" align="center">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Filip-231&show_icons=true&count_private=true&theme=github-dark-blue&border_radius=8.6&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FilipSzmid&show_icons=true&count_private=true&theme=github-dark-blue&border_radius=8.6&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Filip-231&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipSzmid&count_private=true&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Filip-231&exclude_repo=FCC-Algorithmic-Trading,Deep-Learning-Convolutional-Neural-Networks,Big-data-hadoop-map-reduce,Machine-Learning,Deep-Learning,NG-CarApp&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipSzmid&exclude_repo=FCC-Algorithmic-Trading,Deep-Learning-Convolutional-Neural-Networks,Big-data-hadoop-map-reduce,Machine-Learning,Deep-Learning,NG-CarApp&layout=compact&theme=vision-friendly-dark&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <div align=center>
@@ -97,7 +97,7 @@ I am a Machine Learning Engineer from Poland. :robot:
   <img src="https://media.giphy.com/media/gG9fVWJdN41NeiHhzk/giphy.gif" width="100"/>
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100"/> -->
 <!-- <div id="badges">
-  <a href="https://www.linkedin.com/in/filip-szmid-a1081519a/">
+  <a href="https://www.linkedin.com/in/filipszmid/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div> -->
